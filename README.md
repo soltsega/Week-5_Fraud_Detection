@@ -1,11 +1,10 @@
 
-```markdown
 # Fraud Detection System for E-commerce and Banking
 
-## 🚀 Overview
-- A robust machine learning solution for detecting fraudulent transactions in e-commerce and banking sectors. This system leverages advanced feature engineering, geolocation analysis, and ensemble modeling to identify suspicious activities with high precision.
+## Overview
+A robust machine learning solution for detecting fraudulent transactions in e-commerce and banking sectors. This system leverages advanced feature engineering, geolocation analysis, and ensemble modeling to identify suspicious activities with high precision.
 
-## 🎯 Key Features
+## Key Features
 
 ### Data Processing
 - **Intelligent Feature Engineering**
@@ -25,78 +24,78 @@
   - Individual prediction explanations
   - Business-friendly insights
 
-## 🗺️ Project Roadmap
+## Project Roadmap
 
 ### Phase 1: Data Understanding & Preparation (Current)
-- [x] Data cleaning and preprocessing
-- [x] Exploratory data analysis
-- [x] Feature engineering
-- [x] Class imbalance handling
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Feature engineering
+- Class imbalance handling
 
 ### Phase 2: Model Development (Next)
-- [ ] Implement baseline models
+- Implement baseline models
   - Logistic Regression (interpretable baseline)
   - Decision Trees (for comparison)
-- [ ] Develop ensemble models
+- Develop ensemble models
   - Random Forest
   - XGBoost
   - LightGBM
-- [ ] Hyperparameter tuning
+- Hyperparameter tuning
   - Grid/Random Search
   - Bayesian Optimization
 
 ### Phase 3: Model Evaluation & Optimization
-- [ ] Cross-validation strategies
-- [ ] Performance metrics analysis
+- Cross-validation strategies
+- Performance metrics analysis
   - Precision-Recall curves
   - ROC-AUC analysis
   - Business-specific cost functions
-- [ ] Model interpretation
+- Model interpretation
   - SHAP values
   - Feature importance
   - Decision boundary analysis
 
 ### Phase 4: Deployment & Monitoring
-- [ ] Model serialization
-- [ ] API development (FastAPI/Flask)
-- [ ] Real-time prediction pipeline
-- [ ] Monitoring and logging
+- Model serialization
+- API development (FastAPI/Flask)
+- Real-time prediction pipeline
+- Monitoring and logging
   - Model drift detection
   - Performance metrics dashboard
 
-## 🌟 Project Significance
+## Project Significance
 
 ### Business Impact
 1. **Financial Protection**
-   - Prevent significant revenue loss from fraudulent transactions
-   - Reduce chargeback costs and operational overhead
-   - Protect brand reputation and customer trust
+   - Prevent significant revenue loss from fraudulent transactions.
+   - Reduce chargeback costs and operational overhead.
+   - Protect brand reputation and customer trust.
 
 2. **Operational Efficiency**
-   - Automate fraud detection process
-   - Reduce manual review workload
-   - Enable real-time transaction screening
+   - Automate the fraud detection process.
+   - Reduce manual review workload.
+   - Enable real-time transaction screening.
 
 3. **Customer Experience**
-   - Minimize false positives to reduce friction
-   - Enable faster transaction processing
-   - Build customer confidence in security
+   - Minimize false positives to reduce friction.
+   - Enable faster transaction processing.
+   - Build customer confidence in security.
 
 ### Technical Innovation
 1. **Advanced Feature Engineering**
-   - Time-series pattern recognition
-   - Behavioral biometrics analysis
-   - Network graph analysis
+   - Time-series pattern recognition.
+   - Behavioral biometrics analysis.
+   - Network graph analysis.
 
 2. **Cutting-edge ML Techniques**
-   - Handling extreme class imbalance
-   - Model interpretability for compliance
-   - Adaptive learning for evolving fraud patterns
+   - Handling extreme class imbalance.
+   - Model interpretability for compliance.
+   - Adaptive learning for evolving fraud patterns.
 
 3. **Scalable Architecture**
-   - Cloud-native deployment
-   - Auto-scaling for peak loads
-   - Real-time processing capabilities
+   - Cloud-native deployment.
+   - Auto-scaling for peak loads.
+   - Real-time processing capabilities.
 
 ## 📊 Project Structure
 
