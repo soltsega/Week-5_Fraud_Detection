@@ -1,1 +1,6 @@
 fraud-detection/.github/workflows/unittests.yml
+.vscode/c_cpp_properties.json
+build/Debug/prac.o
+build/Debug/outDebug.exe
+.vscode/launch.json
+.vscode/settings.json
